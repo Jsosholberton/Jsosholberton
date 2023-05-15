@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-  <a aling="center" href="github.com/Jsosholberton"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=1&color=00F737&multiline=true&width=435&height=155&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main()%3D%7B%3Dprintf(%22Hello%2C+my+name+is+Johnatan%5Cn%22);%3DReturn+(0);+%3D%7D" alt="Typing SVG" /></a>
+  <a aling="center" href="https://supermario-game.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=1&color=00F737&multiline=true&width=435&height=155&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main()%3D%7B%3Dprintf(%22Hello%2C+my+name+is+Johnatan%5Cn%22);%3DReturn+(0);+%3D%7D" alt="Easter Egg" /></a>
   <h3 aling="center">Hi there! I'm a Full-Stack Engineer student at Holberton School. Check out my Github page to see my projects and learn more about me!</h3>
 <hr>
   <h3 aling="center">Languages</h3>
