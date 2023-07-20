@@ -2,7 +2,7 @@
 <section>
 	<p align="center">
 		<a href="https://supermario-game.com/">
-			<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3800&pause=500&color=0AF70F&width=435&lines=Hello+World!%2C+My+name+Johnatan." alt="Typing SVG" />
+			<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3800&pause=500&color=0AF70F&multiline=true&height=80&lines=Hello+World!%2C+I'm+Johnatan.;Welcome+to+my+GitHub+%3A)" alt="Typing SVG" />
 		</a>
 	</p>
 	<hr>
@@ -70,9 +70,13 @@
 	<hr>
 </section>
 <!-- Snake section -->
+<section>
 <h3 align="center">Contributions in the last year: </h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jsosholberton/Jsosholberton/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jsosholberton/Jsosholberton/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jsosholberton/Jsosholberton/output/github-contribution-grid-snake.svg">
-</picture>
+	<p align="center">
+		<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jsosholberton/Jsosholberton/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jsosholberton/Jsosholberton/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jsosholberton/Jsosholberton/output/github-contribution-grid-snake.svg">
+		</picture>
+	</p>
+</section>
