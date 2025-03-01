@@ -23,17 +23,17 @@ flowchart TD
         style Backend fill:#003366,stroke:#002244,stroke-width:2px,font-size:20px
         B1[Node.js]
         style B1 fill:#0066cc,stroke:#005bb5,stroke-width:1px,font-size:18px
-        B2[Express.js]
+        B2[Python]
         style B2 fill:#0066cc,stroke:#005bb5,stroke-width:1px,font-size:18px
-        B3[PostgreSQL]
+        B3[Express.js]
         style B3 fill:#0066cc,stroke:#005bb5,stroke-width:1px,font-size:18px
-        B4[Supabase]
+        B4[PostgreSQL]
         style B4 fill:#0066cc,stroke:#005bb5,stroke-width:1px,font-size:18px
-        B5[RESTful API]
+        B5[Supabase]
         style B5 fill:#0066cc,stroke:#005bb5,stroke-width:1px,font-size:18px
-        B6[MongoDB]
+        B6[RESTful API]
         style B6 fill:#0066cc,stroke:#005bb5,stroke-width:1px,font-size:18px
-        B7[API Gateway]
+        B7[MongoDB]
         style B7 fill:#0066cc,stroke:#005bb5,stroke-width:1px,font-size:18px
     end
     skills --> Backend
@@ -133,8 +133,6 @@ flowchart TD
         style TeamCollaboration fill:#400000,stroke:#1a0000,stroke-width:2px,font-size:20px
         TC1[GitHub]
         style TC1 fill:#ff3333,stroke:#cc0000,stroke-width:1px,font-size:18px
-        TC2[GitLab]
-        style TC2 fill:#ff3333,stroke:#cc0000,stroke-width:1px,font-size:18px
         TC3[Slack]
         style TC3 fill:#ff3333,stroke:#cc0000,stroke-width:1px,font-size:18px
         TC4[Trello]
